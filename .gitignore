@@ -1,0 +1,32 @@
+# 定时任务日志
+logs/
+
+# 抓取脚本的中间文件
+data/*.tmp
+data/snapshots/*.tmp
+
+.DS_Store
+.playwright-mcp/
+
+# 临时工作区（git worktree 建在仓库里，别把整棵树提交进来）
+.claude/worktrees/
+
+# python 缓存
+__pycache__/
+*.pyc
+
+# wrangler 的本地开发缓存（wrangler dev 生成，只在本机有意义）
+.wrangler/
+
+# 本地凭据、导出、部署产物和审计临时文件
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.p12
+*.pfx
+dist/
+node_modules/

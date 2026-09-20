@@ -1,0 +1,17 @@
+# 部署：cd scheduler/cf-worker && npx wrangler deploy
+# 首次还需：npx wrangler secret put GITHUB_TOKEN   （粘贴 fine-grained PAT）
+name = "hykb-scrape-cron"
+main = "worker.js"
+compatibility_date = "2026-08-04"
+workers_dev = false          # 纯定时任务，不需要对外网址
+
+[triggers]
+# 前两条打 dispatch（主力 + 每日补档案），第三条是哨兵兜底（见 worker.js 头注）
+crons = [] # 2026-09-07：投票结束，全部排程暂停
+
+[observability]
+enabled = true
+
+[vars]
+# 自行填写目标仓库；不要指向原作者的部署。
+GITHUB_REPOSITORY = "OWNER/REPOSITORY"

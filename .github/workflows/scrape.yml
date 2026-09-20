@@ -1,0 +1,91 @@
+# 托管方案用的定时抓取：GitHub Actions 每小时跑一次，把快照提交回仓库。
+# EdgeOne Pages 监听到 push 自动重新部署；Cloudflare Pages 走最后一步的 wrangler
+# 直传（免费版每月 500 次构建扛不住每小时一次，直传不吃构建额度）。
+# 这样不需要自己的服务器，本机也不用一直开着。
+#
+# 启用前先在仓库 Settings → Actions → General → Workflow permissions
+# 里把权限改成 "Read and write permissions"，否则推不回去。
+
+name: 抓取热度快照
+
+on:
+  # 投票已结束；2026-09-07 停止采集，恢复须显式修改任务保护。
+  workflow_dispatch:          # Actions 页面手动点，或 Worker 定时打 API
+    inputs:
+      enrich:
+        description: '顺带补作品档案（约多花 3~4 分钟）'
+        type: boolean
+        default: false
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    if: ${{ false }} # 归档保护：手动启用 workflow 也不采集
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓热度快照
+        run: python3 scraper/fetch.py
+
+      # 档案（开发团队/评分/评价数）每 12 小时重抓一轮。不靠固定 cron 靠年龄：
+      # enrich.json 的 updatedAt 距今 ≥ 11.5 小时就到期（留半小时余量，免得
+      # 每小时一轮的节奏正好错过 12 整点、拖到 13 小时）。触发源是可靠的
+      # Worker dispatch，天然继承排程三保险；哪一轮漏了，下一轮照样会补。
+      - name: 档案到期检查
+        id: enrich_due
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+          from datetime import datetime, timezone, timedelta
+          try:
+              t = json.load(open("data/enrich.json"))["updatedAt"]
+              age = datetime.now(timezone(timedelta(hours=8))) - datetime.fromisoformat(t)
+              due = age >= timedelta(hours=11.5)
+          except Exception:
+              due = True        # 没有档案或读不出来：视为到期，先补一轮
+          print(f"due={str(due).lower()}")
+          EOF
+
+      - name: 补作品档案
+        if: steps.enrich_due.outputs.due == 'true' || inputs.enrich == true
+        run: python3 scraper/enrich.py --refresh
+        continue-on-error: true
+
+      - name: 提交数据
+        run: |
+          git config user.name  "hykb-bot"
+          git config user.email "hykb-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && echo "数据没变化，跳过提交" && exit 0
+          git commit -m "数据快照 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      # 直传 Cloudflare Pages，给国内小伙伴访问。
+      # 只传页面运行要用的文件；wrangler 按内容哈希增量上传，没变的文件不重复传。
+      # 需要仓库 secrets：CLOUDFLARE_API_TOKEN（Pages 编辑权限）、CLOUDFLARE_ACCOUNT_ID。
+      - name: 部署 Cloudflare Pages
+        env:
+          CF_PAGES_PROJECT: ${{ vars.CF_PAGES_PROJECT }}
+          CF_PAGES_URL: ${{ vars.CF_PAGES_URL }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          : "${CF_PAGES_PROJECT:?Set repository variable CF_PAGES_PROJECT}"
+          : "${CF_PAGES_URL:?Set repository variable CF_PAGES_URL}"
+          mkdir -p dist/web dist/data
+          cp index.html dist/
+          cp web/app.js web/style.css dist/web/
+          cp data/meta.json data/latest.json data/series.json data/enrich.json dist/data/
+          # 从 cf-pages/ 里跑：wrangler 从 cwd 捡 functions/（/api/status 状态探针）。
+          # 这是实测出的未文档化行为，所以钉死 wrangler 版本；直传是整包替换，
+          # 漏了 Functions 就等于把接口下线——末尾的 smoke check 让它响亮地失败
+          cd cf-pages && npx wrangler@4.119.0 pages deploy ../dist --project-name="$CF_PAGES_PROJECT" --branch=main --commit-dirty=true
+          curl -fsS --retry 3 --retry-delay 5 "${CF_PAGES_URL%/}/api/status" | grep -q lastSnapshotAt

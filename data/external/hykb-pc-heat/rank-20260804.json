@@ -1,0 +1,3543 @@
+{
+ "status": "ok",
+ "items": [
+  {
+   "id": "258",
+   "gid": "200453",
+   "name": "家书-PC",
+   "heat": 3077,
+   "intro": "渡信传思念，两岸一家亲（剧情向）",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/10251033907~thumb",
+   "tags": [
+    "AVG",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200453.htm",
+   "rank": 1
+  },
+  {
+   "id": "331",
+   "gid": "201183",
+   "name": "幸存者-PC",
+   "heat": 2334,
+   "intro": "AVG游戏，你是为了活着而不断做出选择的幸存者",
+   "image": "https://img.71acg.net/kbdev/opensj/20260723/17001040502~thumb",
+   "tags": [
+    "单机",
+    "AVG"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201183.htm",
+   "rank": 2
+  },
+  {
+   "id": "295",
+   "gid": "200796",
+   "name": "菜鸟收银员-PC",
+   "heat": 2134,
+   "intro": "这是一款拥有治愈系画风却让大多数玩家挠头算术游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260717/11325873738~thumb",
+   "tags": [
+    "单机",
+    "模拟经营"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200796.htm",
+   "rank": 3
+  },
+  {
+   "id": "145",
+   "gid": "201279",
+   "name": "浮城舟-PC",
+   "heat": 1823,
+   "intro": "《浮城舟》是一款风暴中的半即时危机调度游戏。",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/15442811074~thumb",
+   "tags": [
+    "资源管理",
+    "即时策略"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201279.htm",
+   "rank": 4
+  },
+  {
+   "id": "63",
+   "gid": "200519",
+   "name": "把把博弈王-PC",
+   "heat": 932,
+   "intro": "把把博弈，每一把都在博弈！赢了升天，输了下地！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/15273430362~thumb",
+   "tags": [
+    "角色扮演",
+    "策略"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200519.htm",
+   "rank": 5
+  },
+  {
+   "id": "380",
+   "gid": "200753",
+   "name": "别按！猫！-PC",
+   "heat": 904,
+   "intro": "深夜忙碌工作和给你捣乱的猫",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/16355440197~thumb",
+   "tags": [
+    "单机",
+    "卡通"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200753.htm",
+   "rank": 6
+  },
+  {
+   "id": "77",
+   "gid": "200977",
+   "name": "链键失衡-PC",
+   "heat": 896,
+   "intro": "通过链接线路解谜闯关的2d像素平台跳跃单机游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260721/11080675585~thumb",
+   "tags": [
+    "闯关",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200977.htm",
+   "rank": 7
+  },
+  {
+   "id": "516",
+   "gid": "200694",
+   "name": "少女α的献身-PC",
+   "heat": 886,
+   "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/11010434820~thumb",
+   "tags": [
+    "单机",
+    "Roguelike"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200694.htm",
+   "rank": 8
+  },
+  {
+   "id": "498",
+   "gid": "201288",
+   "name": "缺失者乐园-PC",
+   "heat": 790,
+   "intro": "玩家将操控一只被遗忘在地下木偶剧场中的小木偶进行",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/16275398064~thumb",
+   "tags": [
+    "闯关",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201288.htm",
+   "rank": 9
+  },
+  {
+   "id": "115",
+   "gid": "200865",
+   "name": "地底无眠-PC",
+   "heat": 673,
+   "intro": "建起地下避难所，指挥你的居民死守防线！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260719/10580250890~thumb",
+   "tags": [
+    "资源管理",
+    "建造"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200865.htm",
+   "rank": 10
+  },
+  {
+   "id": "529",
+   "gid": "201254",
+   "name": "融雪之前-PC",
+   "heat": 648,
+   "intro": "举起法杖，切换季节，谜题解开！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/11510022756~thumb",
+   "tags": [
+    "单机",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201254.htm",
+   "rank": 11
+  },
+  {
+   "id": "256",
+   "gid": "200383",
+   "name": "海盗酒馆-PC",
+   "heat": 634,
+   "intro": "海盗酒馆，活下来的人独享宝藏！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260713/1442551655~thumb",
+   "tags": [
+    "黑色幽默",
+    "卡牌"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200383.htm",
+   "rank": 12
+  },
+  {
+   "id": "213",
+   "gid": "200377",
+   "name": "代神聆听-PC",
+   "heat": 600,
+   "intro": "一款剧情驱动的哥特风小故事游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260713/14101185860~thumb",
+   "tags": [
+    "AVG",
+    "剧情"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200377.htm",
+   "rank": 13
+  },
+  {
+   "id": "301",
+   "gid": "201159",
+   "name": "卡牌决斗：黑暗仪式-PC",
+   "heat": 558,
+   "intro": "一款暗黑哥特风卡牌 Roguelike",
+   "image": "https://img.71acg.net/kbdev/opensj/20260723/14124859000~thumb",
+   "tags": [
+    "Roguelike",
+    "卡牌"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201159.htm",
+   "rank": 14
+  },
+  {
+   "id": "138",
+   "gid": "200941",
+   "name": "浮生若梦-PC",
+   "heat": 520,
+   "intro": "玩家将扮演失忆的主人公，在探索中查明真相。",
+   "image": "https://img.71acg.net/kbdev/opensj/20260720/16293691524~thumb",
+   "tags": [
+    "悬疑",
+    "AVG"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200941.htm",
+   "rank": 15
+  },
+  {
+   "id": "85",
+   "gid": "201019",
+   "name": "BUG症候群-PC",
+   "heat": 491,
+   "intro": "化身刘马，暴打老板！用卡牌闯关解谜，逃离游戏世界",
+   "image": "https://img.71acg.net/kbdev/opensj/20260721/17023371984~thumb",
+   "tags": [
+    "平台跳跃",
+    "多结局"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201019.htm",
+   "rank": 16
+  },
+  {
+   "id": "192",
+   "gid": "200640",
+   "name": "洛克的迷宫-PC",
+   "heat": 412,
+   "intro": "探索克苏鲁风格的诡异迷宫，躲避恶灵与怪物的追杀。",
+   "image": "https://img.71acg.net/kbdev/opensj/20260715/15450610712~thumb",
+   "tags": [
+    "单机",
+    "密室逃脱"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200640.htm",
+   "rank": 17
+  },
+  {
+   "id": "257",
+   "gid": "200447",
+   "name": "扳机-PC",
+   "heat": 404,
+   "intro": "向恶棍复仇",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/10013960713~thumb",
+   "tags": [
+    "剧情",
+    "美漫风"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200447.htm",
+   "rank": 18
+  },
+  {
+   "id": "493",
+   "gid": "201066",
+   "name": "人！别按那个键-PC",
+   "heat": 402,
+   "intro": "一枚被按怕了的Ctr键在有网格的世界翻滚逃离",
+   "image": "https://img.71acg.net/kbdev/opensj/20260722/11485625792~thumb",
+   "tags": [
+    "策略",
+    "益智"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201066.htm",
+   "rank": 19
+  },
+  {
+   "id": "146",
+   "gid": "201431",
+   "name": "科迪·方块-PC",
+   "heat": 385,
+   "intro": "科迪·方块是一款 2D meta 叙事喜剧游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260727/13363126497~thumb",
+   "tags": [
+    "单机",
+    "剧情"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201431.htm",
+   "rank": 20
+  },
+  {
+   "id": "343",
+   "gid": "200416",
+   "name": "不要按希卡伊特的按钮-PC",
+   "heat": 375,
+   "intro": "落入黑暗的你于校园解谜潜行，选择决定着生死与命运",
+   "image": "https://img.71acg.net/kbdev/opensj/20260713/17003659921~thumb",
+   "tags": [
+    "潜入",
+    "探索"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200416.htm",
+   "rank": 21
+  },
+  {
+   "id": "113",
+   "gid": "200831",
+   "name": "错误电梯-PC",
+   "heat": 371,
+   "intro": "错误电梯是一款点击类meta元素电梯游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260717/16565890527~thumb",
+   "tags": [
+    "解谜",
+    "点击"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200831.htm",
+   "rank": 22
+  },
+  {
+   "id": "207",
+   "gid": "200724",
+   "name": "别喝那瓶药-PC",
+   "heat": 369,
+   "intro": "被怪病缠身的少女，承受着各类副作用寻找治愈药剂",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/14241497702~thumb",
+   "tags": [
+    "异世界",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200724.htm",
+   "rank": 23
+  },
+  {
+   "id": "104",
+   "gid": "200682",
+   "name": "加勒喵海盗-PC",
+   "heat": 357,
+   "intro": "喵船长的大冒险~",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/10111946908~thumb",
+   "tags": [
+    "单机",
+    "平台跳跃"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200682.htm",
+   "rank": 24
+  },
+  {
+   "id": "231",
+   "gid": "200454",
+   "name": "丧尸围城：别按那个键-PC",
+   "heat": 333,
+   "intro": "别按那个键。除非你准备好迎接尸潮。",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/10260397979~thumb",
+   "tags": [
+    "塔防",
+    "休闲"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200454.htm",
+   "rank": 25
+  },
+  {
+   "id": "565",
+   "gid": "200457",
+   "name": "禁忌之盒-PC",
+   "heat": 328,
+   "intro": "打怪变强，挑战18波禁忌试炼",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/10325378129~thumb",
+   "tags": [
+    "单机",
+    "像素"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200457.htm",
+   "rank": 26
+  },
+  {
+   "id": "576",
+   "gid": "201015",
+   "name": "白核-PC",
+   "heat": 326,
+   "intro": "第三人称科幻设计肉鸽",
+   "image": "https://img.71acg.net/kbdev/opensj/20260721/16374168770~thumb",
+   "tags": [
+    "单机",
+    "射击"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201015.htm",
+   "rank": 27
+  },
+  {
+   "id": "78",
+   "gid": "200981",
+   "name": "最终协议-PC",
+   "heat": 317,
+   "intro": "太空朋克科幻解密",
+   "image": "https://img.71acg.net/kbdev/opensj/20260721/11241871926~thumb",
+   "tags": [
+    "剧情",
+    "多结局"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200981.htm",
+   "rank": 28
+  },
+  {
+   "id": "147",
+   "gid": "201441",
+   "name": "压力那只小熊-PC",
+   "heat": 312,
+   "intro": "为什么要压力一只小熊啊?",
+   "image": "https://img.71acg.net/kbdev/opensj/20260727/15295828054~thumb",
+   "tags": [
+    "单机",
+    "卡通"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201441.htm",
+   "rank": 29
+  },
+  {
+   "id": "132",
+   "gid": "200813",
+   "name": "Avalon：彼岸之森-PC",
+   "heat": 307,
+   "intro": "这是一个德鲁伊少女蜕变成长的故事",
+   "image": "https://img.71acg.net/kbdev/opensj/20260717/15322456754~thumb",
+   "tags": [
+    "单机",
+    "闯关"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200813.htm",
+   "rank": 30
+  },
+  {
+   "id": "292",
+   "gid": "200752",
+   "name": "你是笨蛋吗？-PC",
+   "heat": 305,
+   "intro": "这是一个魂类游戏，但你随时可以开启”外挂“",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/16340348315~thumb",
+   "tags": [
+    "高画质",
+    "硬核"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200752.htm",
+   "rank": 31
+  },
+  {
+   "id": "502",
+   "gid": "201143",
+   "name": "别按！真的别按！-PC",
+   "heat": 302,
+   "intro": "越按越被整的犯贱解谜游戏，别按，除非你想被嘲笑",
+   "image": "https://img.71acg.net/kbdev/opensj/20260723/10405016946~thumb",
+   "tags": [
+    "像素",
+    "心理"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201143.htm",
+   "rank": 32
+  },
+  {
+   "id": "100",
+   "gid": "200595",
+   "name": "狼与爱丽丝-PC",
+   "heat": 301,
+   "intro": "这是一个关于寻找“自我”的游戏。",
+   "image": "https://img.71acg.net/kbdev/opensj/20260715/11050198068~thumb",
+   "tags": [
+    "单机",
+    "解谜"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200595.htm",
+   "rank": 33
+  },
+  {
+   "id": "143",
+   "gid": "201095",
+   "name": "爆牌甜心-PC",
+   "heat": 300,
+   "intro": "用甜点战斗，用灵魂买单的21点游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260722/16073162565~thumb",
+   "tags": [
+    "单机",
+    "Roguelike"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201095.htm",
+   "rank": 34
+  },
+  {
+   "id": "196",
+   "gid": "200702",
+   "name": "夜班审核-PC",
+   "heat": 298,
+   "intro": "在夜班当审核员，找出伪人并想办法阻止他们按打卡键",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/12151165283~thumb",
+   "tags": [
+    "单机",
+    "策略"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200702.htm",
+   "rank": 35
+  },
+  {
+   "id": "90",
+   "gid": "200281",
+   "name": "系统说我按下按钮就能拯救异世界，但它没说按完就能看到美少女-PC",
+   "heat": 284,
+   "intro": "在这款游戏您将变为异世界穿越者拯救世界",
+   "image": "https://img.71acg.net/kbdev/opensj/20260710/15212817597~thumb",
+   "tags": [
+    "单机",
+    "动作"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200281.htm",
+   "rank": 36
+  },
+  {
+   "id": "542",
+   "gid": "200279",
+   "name": "No，Kitty！-PC",
+   "heat": 276,
+   "intro": "变成猫猫头,开启你的奇妙之旅",
+   "image": "https://img.71acg.net/kbdev/opensj/20260710/15133665862~thumb",
+   "tags": [
+    "剧情",
+    "休闲"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200279.htm",
+   "rank": 37
+  },
+  {
+   "id": "568",
+   "gid": "201274",
+   "name": "遗忘时钟-PC",
+   "heat": 266,
+   "intro": "2D横版剧情游戏，按下按钮就会结束循环，失去妻子",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/15155253823~thumb",
+   "tags": [
+    "剧情",
+    "角色扮演"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201274.htm",
+   "rank": 38
+  },
+  {
+   "id": "234",
+   "gid": "200459",
+   "name": "四时光门-PC",
+   "heat": 254,
+   "intro": "穿梭四段人生时空，抉择是遗忘遗憾还是铭记奶奶一生",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/10395287574~thumb",
+   "tags": [
+    "探索",
+    "休闲"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200459.htm",
+   "rank": 39
+  },
+  {
+   "id": "558",
+   "gid": "201259",
+   "name": "键外之音-PC",
+   "heat": 244,
+   "intro": "键外之音是一款以音乐为灵感的策略动作游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/13455538791~thumb",
+   "tags": [
+    "单机",
+    "动作"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201259.htm",
+   "rank": 40
+  },
+  {
+   "id": "69",
+   "gid": "200741",
+   "name": "这个地下城有够烦人-PC",
+   "heat": 238,
+   "intro": "复古传统像素艺术的一款地牢探索向的卡牌游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/15474777591~thumb",
+   "tags": [
+    "单机",
+    "Roguelike"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200741.htm",
+   "rank": 41
+  },
+  {
+   "id": "149",
+   "gid": "201445",
+   "name": "K博德精灵公司-PC",
+   "heat": 233,
+   "intro": "排兵布阵，携手K博德精灵们共赴键盘上的攻防战吧！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260727/16254177309~thumb",
+   "tags": [
+    "模拟经营",
+    "塔防"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201445.htm",
+   "rank": 42
+  },
+  {
+   "id": "317",
+   "gid": "200765",
+   "name": "垃圾鱼-PC",
+   "heat": 223,
+   "intro": "卡牌肉鸽自走棋，清理垃圾，保护海洋",
+   "image": "https://img.71acg.net/kbdev/opensj/20260716/18313268195~thumb",
+   "tags": [
+    "像素",
+    "自走棋"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200765.htm",
+   "rank": 43
+  },
+  {
+   "id": "525",
+   "gid": "200797",
+   "name": "旁观者-PC",
+   "heat": 223,
+   "intro": "千万不要碰那台有点奇怪的电脑！！！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260717/11375836433~thumb",
+   "tags": [
+    "单机",
+    "像素"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200797.htm",
+   "rank": 44
+  },
+  {
+   "id": "244",
+   "gid": "200477",
+   "name": "豚豚·别按那个键-PC",
+   "heat": 222,
+   "intro": "宗门欺胖海豚，拾键帽闯咒关，得失皆缚，唯按可求生",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/11081490562~thumb",
+   "tags": [
+    "角色扮演",
+    "弹幕"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200477.htm",
+   "rank": 45
+  },
+  {
+   "id": "95",
+   "gid": "200486",
+   "name": "猫猫大逃亡-PC",
+   "heat": 221,
+   "intro": "当绝境来临，那个能救你的按钮，真的值得按下吗？",
+   "image": "https://img.71acg.net/kbdev/opensj/20260714/11294813416~thumb",
+   "tags": [
+    "萌宠",
+    "克苏鲁"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200486.htm",
+   "rank": 46
+  },
+  {
+   "id": "185",
+   "gid": "200619",
+   "name": "椰子大逃生-PC",
+   "heat": 215,
+   "intro": "俯视角弹幕射击：按or不按？来决定椰子的命运吧！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260715/14203147650~thumb",
+   "tags": [
+    "单机",
+    "射击"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200619.htm",
+   "rank": 47
+  },
+  {
+   "id": "435",
+   "gid": "201302",
+   "name": "爆破黑鼠党-PC",
+   "heat": 214,
+   "intro": "小丑牌like三消游戏",
+   "image": "https://img.71acg.net/kbdev/opensj/20260724/1746057365~thumb",
+   "tags": [
+    "Roguelike",
+    "卡牌"
+   ],
+   "sourceUrl": "https://www.3839.com/a/201302.htm",
+   "rank": 48
+  },
+  {
+   "id": "230",
+   "gid": "200302",
+   "name": "明湾72小时-PC",
+   "heat": 214,
+   "intro": "你是明湾通最后一位夜班质检员进行72小时验收夜",
+   "image": "https://img.71acg.net/kbdev/opensj/20260710/17264441751~thumb",
+   "tags": [
+    "单机",
+    "剧情"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200302.htm",
+   "rank": 49
+  },
+  {
+   "id": "264",
+   "gid": "200793",
+   "name": "键盘清理师-PC",
+   "heat": 210,
+   "intro": "化身清洁师，拯救脏键盘，但千万别按那个键！",
+   "image": "https://img.71acg.net/kbdev/opensj/20260717/11033328789~thumb",
+   "tags": [
+    "卡通",
+    "休闲"
+   ],
+   "sourceUrl": "https://www.3839.com/a/200793.htm",
+   "rank": 50
+  }
+ ],
+ "categories": {
+  "pc": {
+   "key": "pc",
+   "label": "PC 游戏",
+   "sourceCount": 380,
+   "items": [
+    {
+     "id": "258",
+     "gid": "200453",
+     "name": "家书-PC",
+     "heat": 3077,
+     "intro": "渡信传思念，两岸一家亲（剧情向）",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10251033907~thumb",
+     "tags": [
+      "AVG",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200453.htm",
+     "rank": 1
+    },
+    {
+     "id": "331",
+     "gid": "201183",
+     "name": "幸存者-PC",
+     "heat": 2334,
+     "intro": "AVG游戏，你是为了活着而不断做出选择的幸存者",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/17001040502~thumb",
+     "tags": [
+      "单机",
+      "AVG"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201183.htm",
+     "rank": 2
+    },
+    {
+     "id": "295",
+     "gid": "200796",
+     "name": "菜鸟收银员-PC",
+     "heat": 2134,
+     "intro": "这是一款拥有治愈系画风却让大多数玩家挠头算术游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/11325873738~thumb",
+     "tags": [
+      "单机",
+      "模拟经营"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200796.htm",
+     "rank": 3
+    },
+    {
+     "id": "145",
+     "gid": "201279",
+     "name": "浮城舟-PC",
+     "heat": 1823,
+     "intro": "《浮城舟》是一款风暴中的半即时危机调度游戏。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/15442811074~thumb",
+     "tags": [
+      "资源管理",
+      "即时策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201279.htm",
+     "rank": 4
+    },
+    {
+     "id": "63",
+     "gid": "200519",
+     "name": "把把博弈王-PC",
+     "heat": 932,
+     "intro": "把把博弈，每一把都在博弈！赢了升天，输了下地！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/15273430362~thumb",
+     "tags": [
+      "角色扮演",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200519.htm",
+     "rank": 5
+    },
+    {
+     "id": "380",
+     "gid": "200753",
+     "name": "别按！猫！-PC",
+     "heat": 904,
+     "intro": "深夜忙碌工作和给你捣乱的猫",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/16355440197~thumb",
+     "tags": [
+      "单机",
+      "卡通"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200753.htm",
+     "rank": 6
+    },
+    {
+     "id": "77",
+     "gid": "200977",
+     "name": "链键失衡-PC",
+     "heat": 896,
+     "intro": "通过链接线路解谜闯关的2d像素平台跳跃单机游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/11080675585~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200977.htm",
+     "rank": 7
+    },
+    {
+     "id": "516",
+     "gid": "200694",
+     "name": "少女α的献身-PC",
+     "heat": 886,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/11010434820~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200694.htm",
+     "rank": 8
+    },
+    {
+     "id": "498",
+     "gid": "201288",
+     "name": "缺失者乐园-PC",
+     "heat": 790,
+     "intro": "玩家将操控一只被遗忘在地下木偶剧场中的小木偶进行",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/16275398064~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201288.htm",
+     "rank": 9
+    },
+    {
+     "id": "115",
+     "gid": "200865",
+     "name": "地底无眠-PC",
+     "heat": 673,
+     "intro": "建起地下避难所，指挥你的居民死守防线！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260719/10580250890~thumb",
+     "tags": [
+      "资源管理",
+      "建造"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200865.htm",
+     "rank": 10
+    },
+    {
+     "id": "529",
+     "gid": "201254",
+     "name": "融雪之前-PC",
+     "heat": 648,
+     "intro": "举起法杖，切换季节，谜题解开！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/11510022756~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201254.htm",
+     "rank": 11
+    },
+    {
+     "id": "256",
+     "gid": "200383",
+     "name": "海盗酒馆-PC",
+     "heat": 634,
+     "intro": "海盗酒馆，活下来的人独享宝藏！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/1442551655~thumb",
+     "tags": [
+      "黑色幽默",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200383.htm",
+     "rank": 12
+    },
+    {
+     "id": "213",
+     "gid": "200377",
+     "name": "代神聆听-PC",
+     "heat": 600,
+     "intro": "一款剧情驱动的哥特风小故事游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/14101185860~thumb",
+     "tags": [
+      "AVG",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200377.htm",
+     "rank": 13
+    },
+    {
+     "id": "301",
+     "gid": "201159",
+     "name": "卡牌决斗：黑暗仪式-PC",
+     "heat": 558,
+     "intro": "一款暗黑哥特风卡牌 Roguelike",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/14124859000~thumb",
+     "tags": [
+      "Roguelike",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201159.htm",
+     "rank": 14
+    },
+    {
+     "id": "138",
+     "gid": "200941",
+     "name": "浮生若梦-PC",
+     "heat": 520,
+     "intro": "玩家将扮演失忆的主人公，在探索中查明真相。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260720/16293691524~thumb",
+     "tags": [
+      "悬疑",
+      "AVG"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200941.htm",
+     "rank": 15
+    },
+    {
+     "id": "85",
+     "gid": "201019",
+     "name": "BUG症候群-PC",
+     "heat": 491,
+     "intro": "化身刘马，暴打老板！用卡牌闯关解谜，逃离游戏世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/17023371984~thumb",
+     "tags": [
+      "平台跳跃",
+      "多结局"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201019.htm",
+     "rank": 16
+    },
+    {
+     "id": "192",
+     "gid": "200640",
+     "name": "洛克的迷宫-PC",
+     "heat": 412,
+     "intro": "探索克苏鲁风格的诡异迷宫，躲避恶灵与怪物的追杀。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/15450610712~thumb",
+     "tags": [
+      "单机",
+      "密室逃脱"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200640.htm",
+     "rank": 17
+    },
+    {
+     "id": "257",
+     "gid": "200447",
+     "name": "扳机-PC",
+     "heat": 404,
+     "intro": "向恶棍复仇",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10013960713~thumb",
+     "tags": [
+      "剧情",
+      "美漫风"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200447.htm",
+     "rank": 18
+    },
+    {
+     "id": "493",
+     "gid": "201066",
+     "name": "人！别按那个键-PC",
+     "heat": 402,
+     "intro": "一枚被按怕了的Ctr键在有网格的世界翻滚逃离",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/11485625792~thumb",
+     "tags": [
+      "策略",
+      "益智"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201066.htm",
+     "rank": 19
+    },
+    {
+     "id": "146",
+     "gid": "201431",
+     "name": "科迪·方块-PC",
+     "heat": 385,
+     "intro": "科迪·方块是一款 2D meta 叙事喜剧游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260727/13363126497~thumb",
+     "tags": [
+      "单机",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201431.htm",
+     "rank": 20
+    },
+    {
+     "id": "343",
+     "gid": "200416",
+     "name": "不要按希卡伊特的按钮-PC",
+     "heat": 375,
+     "intro": "落入黑暗的你于校园解谜潜行，选择决定着生死与命运",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/17003659921~thumb",
+     "tags": [
+      "潜入",
+      "探索"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200416.htm",
+     "rank": 21
+    },
+    {
+     "id": "113",
+     "gid": "200831",
+     "name": "错误电梯-PC",
+     "heat": 371,
+     "intro": "错误电梯是一款点击类meta元素电梯游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/16565890527~thumb",
+     "tags": [
+      "解谜",
+      "点击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200831.htm",
+     "rank": 22
+    },
+    {
+     "id": "207",
+     "gid": "200724",
+     "name": "别喝那瓶药-PC",
+     "heat": 369,
+     "intro": "被怪病缠身的少女，承受着各类副作用寻找治愈药剂",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/14241497702~thumb",
+     "tags": [
+      "异世界",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200724.htm",
+     "rank": 23
+    },
+    {
+     "id": "104",
+     "gid": "200682",
+     "name": "加勒喵海盗-PC",
+     "heat": 357,
+     "intro": "喵船长的大冒险~",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/10111946908~thumb",
+     "tags": [
+      "单机",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200682.htm",
+     "rank": 24
+    },
+    {
+     "id": "231",
+     "gid": "200454",
+     "name": "丧尸围城：别按那个键-PC",
+     "heat": 333,
+     "intro": "别按那个键。除非你准备好迎接尸潮。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10260397979~thumb",
+     "tags": [
+      "塔防",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200454.htm",
+     "rank": 25
+    },
+    {
+     "id": "565",
+     "gid": "200457",
+     "name": "禁忌之盒-PC",
+     "heat": 328,
+     "intro": "打怪变强，挑战18波禁忌试炼",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10325378129~thumb",
+     "tags": [
+      "单机",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200457.htm",
+     "rank": 26
+    },
+    {
+     "id": "576",
+     "gid": "201015",
+     "name": "白核-PC",
+     "heat": 326,
+     "intro": "第三人称科幻设计肉鸽",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/16374168770~thumb",
+     "tags": [
+      "单机",
+      "射击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201015.htm",
+     "rank": 27
+    },
+    {
+     "id": "78",
+     "gid": "200981",
+     "name": "最终协议-PC",
+     "heat": 317,
+     "intro": "太空朋克科幻解密",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/11241871926~thumb",
+     "tags": [
+      "剧情",
+      "多结局"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200981.htm",
+     "rank": 28
+    },
+    {
+     "id": "147",
+     "gid": "201441",
+     "name": "压力那只小熊-PC",
+     "heat": 312,
+     "intro": "为什么要压力一只小熊啊?",
+     "image": "https://img.71acg.net/kbdev/opensj/20260727/15295828054~thumb",
+     "tags": [
+      "单机",
+      "卡通"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201441.htm",
+     "rank": 29
+    },
+    {
+     "id": "132",
+     "gid": "200813",
+     "name": "Avalon：彼岸之森-PC",
+     "heat": 307,
+     "intro": "这是一个德鲁伊少女蜕变成长的故事",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/15322456754~thumb",
+     "tags": [
+      "单机",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200813.htm",
+     "rank": 30
+    },
+    {
+     "id": "292",
+     "gid": "200752",
+     "name": "你是笨蛋吗？-PC",
+     "heat": 305,
+     "intro": "这是一个魂类游戏，但你随时可以开启”外挂“",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/16340348315~thumb",
+     "tags": [
+      "高画质",
+      "硬核"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200752.htm",
+     "rank": 31
+    },
+    {
+     "id": "502",
+     "gid": "201143",
+     "name": "别按！真的别按！-PC",
+     "heat": 302,
+     "intro": "越按越被整的犯贱解谜游戏，别按，除非你想被嘲笑",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/10405016946~thumb",
+     "tags": [
+      "像素",
+      "心理"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201143.htm",
+     "rank": 32
+    },
+    {
+     "id": "100",
+     "gid": "200595",
+     "name": "狼与爱丽丝-PC",
+     "heat": 301,
+     "intro": "这是一个关于寻找“自我”的游戏。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/11050198068~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200595.htm",
+     "rank": 33
+    },
+    {
+     "id": "143",
+     "gid": "201095",
+     "name": "爆牌甜心-PC",
+     "heat": 300,
+     "intro": "用甜点战斗，用灵魂买单的21点游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/16073162565~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201095.htm",
+     "rank": 34
+    },
+    {
+     "id": "196",
+     "gid": "200702",
+     "name": "夜班审核-PC",
+     "heat": 298,
+     "intro": "在夜班当审核员，找出伪人并想办法阻止他们按打卡键",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/12151165283~thumb",
+     "tags": [
+      "单机",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200702.htm",
+     "rank": 35
+    },
+    {
+     "id": "90",
+     "gid": "200281",
+     "name": "系统说我按下按钮就能拯救异世界，但它没说按完就能看到美少女-PC",
+     "heat": 284,
+     "intro": "在这款游戏您将变为异世界穿越者拯救世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15212817597~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200281.htm",
+     "rank": 36
+    },
+    {
+     "id": "542",
+     "gid": "200279",
+     "name": "No，Kitty！-PC",
+     "heat": 276,
+     "intro": "变成猫猫头,开启你的奇妙之旅",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15133665862~thumb",
+     "tags": [
+      "剧情",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200279.htm",
+     "rank": 37
+    },
+    {
+     "id": "568",
+     "gid": "201274",
+     "name": "遗忘时钟-PC",
+     "heat": 266,
+     "intro": "2D横版剧情游戏，按下按钮就会结束循环，失去妻子",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/15155253823~thumb",
+     "tags": [
+      "剧情",
+      "角色扮演"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201274.htm",
+     "rank": 38
+    },
+    {
+     "id": "234",
+     "gid": "200459",
+     "name": "四时光门-PC",
+     "heat": 254,
+     "intro": "穿梭四段人生时空，抉择是遗忘遗憾还是铭记奶奶一生",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10395287574~thumb",
+     "tags": [
+      "探索",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200459.htm",
+     "rank": 39
+    },
+    {
+     "id": "558",
+     "gid": "201259",
+     "name": "键外之音-PC",
+     "heat": 244,
+     "intro": "键外之音是一款以音乐为灵感的策略动作游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/13455538791~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201259.htm",
+     "rank": 40
+    },
+    {
+     "id": "69",
+     "gid": "200741",
+     "name": "这个地下城有够烦人-PC",
+     "heat": 238,
+     "intro": "复古传统像素艺术的一款地牢探索向的卡牌游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/15474777591~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200741.htm",
+     "rank": 41
+    },
+    {
+     "id": "149",
+     "gid": "201445",
+     "name": "K博德精灵公司-PC",
+     "heat": 233,
+     "intro": "排兵布阵，携手K博德精灵们共赴键盘上的攻防战吧！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260727/16254177309~thumb",
+     "tags": [
+      "模拟经营",
+      "塔防"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201445.htm",
+     "rank": 42
+    },
+    {
+     "id": "317",
+     "gid": "200765",
+     "name": "垃圾鱼-PC",
+     "heat": 223,
+     "intro": "卡牌肉鸽自走棋，清理垃圾，保护海洋",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/18313268195~thumb",
+     "tags": [
+      "像素",
+      "自走棋"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200765.htm",
+     "rank": 43
+    },
+    {
+     "id": "525",
+     "gid": "200797",
+     "name": "旁观者-PC",
+     "heat": 223,
+     "intro": "千万不要碰那台有点奇怪的电脑！！！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/11375836433~thumb",
+     "tags": [
+      "单机",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200797.htm",
+     "rank": 44
+    },
+    {
+     "id": "244",
+     "gid": "200477",
+     "name": "豚豚·别按那个键-PC",
+     "heat": 222,
+     "intro": "宗门欺胖海豚，拾键帽闯咒关，得失皆缚，唯按可求生",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/11081490562~thumb",
+     "tags": [
+      "角色扮演",
+      "弹幕"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200477.htm",
+     "rank": 45
+    },
+    {
+     "id": "95",
+     "gid": "200486",
+     "name": "猫猫大逃亡-PC",
+     "heat": 221,
+     "intro": "当绝境来临，那个能救你的按钮，真的值得按下吗？",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/11294813416~thumb",
+     "tags": [
+      "萌宠",
+      "克苏鲁"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200486.htm",
+     "rank": 46
+    },
+    {
+     "id": "185",
+     "gid": "200619",
+     "name": "椰子大逃生-PC",
+     "heat": 215,
+     "intro": "俯视角弹幕射击：按or不按？来决定椰子的命运吧！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/14203147650~thumb",
+     "tags": [
+      "单机",
+      "射击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200619.htm",
+     "rank": 47
+    },
+    {
+     "id": "435",
+     "gid": "201302",
+     "name": "爆破黑鼠党-PC",
+     "heat": 214,
+     "intro": "小丑牌like三消游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/1746057365~thumb",
+     "tags": [
+      "Roguelike",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201302.htm",
+     "rank": 48
+    },
+    {
+     "id": "230",
+     "gid": "200302",
+     "name": "明湾72小时-PC",
+     "heat": 214,
+     "intro": "你是明湾通最后一位夜班质检员进行72小时验收夜",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/17264441751~thumb",
+     "tags": [
+      "单机",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200302.htm",
+     "rank": 49
+    },
+    {
+     "id": "264",
+     "gid": "200793",
+     "name": "键盘清理师-PC",
+     "heat": 210,
+     "intro": "化身清洁师，拯救脏键盘，但千万别按那个键！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/11033328789~thumb",
+     "tags": [
+      "卡通",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200793.htm",
+     "rank": 50
+    }
+   ]
+  },
+  "mobile": {
+   "key": "mobile",
+   "label": "手游",
+   "sourceCount": 57,
+   "items": [
+    {
+     "id": "437",
+     "gid": "200194",
+     "name": "把把博弈王",
+     "heat": 6746,
+     "intro": "把把博弈，每一把都在博弈！赢了升天，输了下地！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/1151421531~thumb",
+     "tags": [
+      "角色扮演",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200194.htm",
+     "rank": 1
+    },
+    {
+     "id": "439",
+     "gid": "200197",
+     "name": "少女α的献身",
+     "heat": 5809,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13432163548~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200197.htm",
+     "rank": 2
+    },
+    {
+     "id": "470",
+     "gid": "200217",
+     "name": "喂！别按那个键！",
+     "heat": 4147,
+     "intro": "2D轻策略塔防，部署守护者，保护电源核心",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15214322050~thumb",
+     "tags": [
+      "塔防",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200217.htm",
+     "rank": 3
+    },
+    {
+     "id": "441",
+     "gid": "200206",
+     "name": "这个地下城有够烦人",
+     "heat": 4041,
+     "intro": "复古传统像素艺术的一款地牢探索向的卡牌游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/14141591601~thumb",
+     "tags": [
+      "单机",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200206.htm",
+     "rank": 4
+    },
+    {
+     "id": "446",
+     "gid": "200243",
+     "name": "不要急于成交",
+     "heat": 4020,
+     "intro": "带有策略的猜大小游戏，押上你的资金链！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17492079363~thumb",
+     "tags": [
+      "策略",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200243.htm",
+     "rank": 5
+    },
+    {
+     "id": "463",
+     "gid": "200414",
+     "name": "逃离恶梦岛",
+     "heat": 3583,
+     "intro": "生存肉鸽进化岛",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/16531875999~thumb",
+     "tags": [
+      "单机",
+      "搜打撤"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200414.htm",
+     "rank": 6
+    },
+    {
+     "id": "462",
+     "gid": "200370",
+     "name": "末日研究所：谁是伪人？",
+     "heat": 3107,
+     "intro": "伪人末日题材的模拟经营游戏！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/13394735663~thumb",
+     "tags": [
+      "模拟经营",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200370.htm",
+     "rank": 7
+    },
+    {
+     "id": "469",
+     "gid": "200406",
+     "name": "暴雨疯院",
+     "heat": 2883,
+     "intro": "按不按按钮能够改变剧情走向，是否能成功出逃",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/16252718399~thumb",
+     "tags": [
+      "点击",
+      "逃脱"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200406.htm",
+     "rank": 8
+    },
+    {
+     "id": "453",
+     "gid": "200226",
+     "name": "链键失衡",
+     "heat": 2831,
+     "intro": "通过连线链路解谜的2D像素平台跳跃游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16043228762~thumb",
+     "tags": [
+      "解谜",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200226.htm",
+     "rank": 9
+    },
+    {
+     "id": "487",
+     "gid": "200004",
+     "name": "断绝的世界",
+     "heat": 2548,
+     "intro": "打破世界循环!",
+     "image": "https://img.71acg.net/kbdev/opensj/20260705/10575329625~thumb",
+     "tags": [
+      "卡牌",
+      "单机"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200004.htm",
+     "rank": 10
+    },
+    {
+     "id": "436",
+     "gid": "200191",
+     "name": "不合理怪谈",
+     "heat": 2520,
+     "intro": "别按那个键！逃离这里，他们在看着我！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/11345343364~thumb",
+     "tags": [
+      "悬疑",
+      "怪谈"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200191.htm",
+     "rank": 11
+    },
+    {
+     "id": "450",
+     "gid": "200211",
+     "name": "亲爱的家人们",
+     "heat": 2517,
+     "intro": "为了拯救你的家人，你被卷入了一次致命赌局之中",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/14440912749~thumb",
+     "tags": [
+      "策略",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200211.htm",
+     "rank": 12
+    },
+    {
+     "id": "458",
+     "gid": "200222",
+     "name": "校园规则",
+     "heat": 2464,
+     "intro": "只要遵从规则，你就能找到出去的路",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15451726224~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200222.htm",
+     "rank": 13
+    },
+    {
+     "id": "454",
+     "gid": "200207",
+     "name": "又是不想上班的一天",
+     "heat": 2386,
+     "intro": "拯救牛马策划，实现升职加薪，抱得美人归",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/14164452879~thumb",
+     "tags": [
+      "单机",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200207.htm",
+     "rank": 14
+    },
+    {
+     "id": "476",
+     "gid": "200310",
+     "name": "别划那个浆",
+     "heat": 2363,
+     "intro": "别划那个浆，否则水怪会找上你！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/19250887830~thumb",
+     "tags": [
+      "物理",
+      "行云流水"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200310.htm",
+     "rank": 15
+    },
+    {
+     "id": "486",
+     "gid": "200409",
+     "name": "鸭鸭旅游团",
+     "heat": 2343,
+     "intro": "导游，等等！让大家别叫了啊！那条龙要醒了！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/1631451401~thumb",
+     "tags": [
+      "角色扮演",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200409.htm",
+     "rank": 16
+    },
+    {
+     "id": "440",
+     "gid": "200204",
+     "name": "禁忌之塔",
+     "heat": 2308,
+     "intro": "利用禁忌之塔阻击敌人，灵活操作禁印不断成长",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13592732960~thumb",
+     "tags": [
+      "单机",
+      "塔防"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200204.htm",
+     "rank": 17
+    },
+    {
+     "id": "477",
+     "gid": "200309",
+     "name": "Eclipsa",
+     "heat": 2226,
+     "intro": "闯关冒险类游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/18485795025~thumb",
+     "tags": [
+      "平台跳跃",
+      "复古"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200309.htm",
+     "rank": 18
+    },
+    {
+     "id": "448",
+     "gid": "200193",
+     "name": "赤色按键：猫与坠翼",
+     "heat": 2147,
+     "intro": "除锈模拟器，除锈过程中不要误触按键哟",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/11482532347~thumb",
+     "tags": [
+      "多平台",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200193.htm",
+     "rank": 19
+    },
+    {
+     "id": "452",
+     "gid": "200218",
+     "name": "最终协议",
+     "heat": 2046,
+     "intro": "太空朋克科幻解密",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15240731637~thumb",
+     "tags": [
+      "剧情",
+      "人工智能"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200218.htm",
+     "rank": 20
+    },
+    {
+     "id": "483",
+     "gid": "200301",
+     "name": "神隙之旅",
+     "heat": 2042,
+     "intro": "一场跨越时间与空间只为复活心爱之人的冒险。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/17145347447~thumb",
+     "tags": [
+      "角色扮演",
+      "单机"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200301.htm",
+     "rank": 21
+    },
+    {
+     "id": "481",
+     "gid": "200278",
+     "name": "疯狂马戏团",
+     "heat": 2038,
+     "intro": "反串马戏团表演，你与手握操纵按钮的动物们同台表演",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/14314549270~thumb",
+     "tags": [
+      "闯关",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200278.htm",
+     "rank": 22
+    },
+    {
+     "id": "490",
+     "gid": "200828",
+     "name": "点击幸存者",
+     "heat": 1986,
+     "intro": "每一次点击，都是存活与死亡的选择。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/16492478010~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200828.htm",
+     "rank": 23
+    },
+    {
+     "id": "473",
+     "gid": "200257",
+     "name": "禁键协议",
+     "heat": 1970,
+     "intro": "一款赛博风无轨音游 Boss 战",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/09231354430~thumb",
+     "tags": [
+      "单机",
+      "音游"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200257.htm",
+     "rank": 24
+    },
+    {
+     "id": "475",
+     "gid": "200232",
+     "name": "无尽之门",
+     "heat": 1939,
+     "intro": "欢迎来到无尽之门",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/1636455401~thumb",
+     "tags": [
+      "极简",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200232.htm",
+     "rank": 25
+    },
+    {
+     "id": "468",
+     "gid": "200300",
+     "name": "请勿按键",
+     "heat": 1806,
+     "intro": "悄悄的按下红色按钮，赚取金币,抽取武器",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/17132153421~thumb",
+     "tags": [
+      "单机",
+      "第三人称"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200300.htm",
+     "rank": 26
+    },
+    {
+     "id": "464",
+     "gid": "200430",
+     "name": "关掉咪",
+     "heat": 1768,
+     "intro": "请全力阻止调皮的小猫按下电脑关机键吧！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/18140690329~thumb",
+     "tags": [
+      "单机",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200430.htm",
+     "rank": 27
+    },
+    {
+     "id": "492",
+     "gid": "200921",
+     "name": "羽笺",
+     "heat": 1766,
+     "intro": "关于“失去与传承”的治愈系视觉小说",
+     "image": "https://img.71acg.net/kbdev/opensj/20260720/14102489210~thumb",
+     "tags": [
+      "剧情",
+      "探索"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200921.htm",
+     "rank": 28
+    },
+    {
+     "id": "471",
+     "gid": "200231",
+     "name": "莫陌山",
+     "heat": 1726,
+     "intro": "晋朝的乱世的生存游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16350680044~thumb",
+     "tags": [
+      "剧情",
+      "生存"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200231.htm",
+     "rank": 29
+    },
+    {
+     "id": "445",
+     "gid": "200240",
+     "name": "REBOOT",
+     "heat": 1578,
+     "intro": "《别按那个键》是一款2D平台跳跃解谜游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17284948762~thumb",
+     "tags": [
+      "平台跳跃",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200240.htm",
+     "rank": 30
+    },
+    {
+     "id": "461",
+     "gid": "200242",
+     "name": "听我说",
+     "heat": 1523,
+     "intro": "听与不听都是人生",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17330652245~thumb",
+     "tags": [
+      "文字",
+      "点击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200242.htm",
+     "rank": 31
+    },
+    {
+     "id": "457",
+     "gid": "200219",
+     "name": "一个普通的手游",
+     "heat": 1513,
+     "intro": "点击越多快乐越多",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15243087113~thumb",
+     "tags": [
+      "点击",
+      "放置"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200219.htm",
+     "rank": 32
+    },
+    {
+     "id": "444",
+     "gid": "200221",
+     "name": "手忙脚乱",
+     "heat": 1487,
+     "intro": "大手臂派对肉鸽游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15362369257~thumb",
+     "tags": [
+      "沙雕",
+      "桌游"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200221.htm",
+     "rank": 33
+    },
+    {
+     "id": "456",
+     "gid": "200216",
+     "name": "算式塔防",
+     "heat": 1454,
+     "intro": "拖数字拼算式喂炮台的脑力塔防",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15061687363~thumb",
+     "tags": [
+      "塔防",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200216.htm",
+     "rank": 34
+    },
+    {
+     "id": "474",
+     "gid": "200298",
+     "name": "塔罗斯：余烬",
+     "heat": 1300,
+     "intro": "末日生存类型，第三人称动作游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/1653052511~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200298.htm",
+     "rank": 35
+    },
+    {
+     "id": "447",
+     "gid": "200276",
+     "name": "逃离按钮规则",
+     "heat": 1283,
+     "intro": "逃离被按钮规则束缚的世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/14013677723~thumb",
+     "tags": [
+      "解谜",
+      "第一人称"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200276.htm",
+     "rank": 36
+    },
+    {
+     "id": "459",
+     "gid": "200224",
+     "name": "禁键局档案：归零层",
+     "heat": 1252,
+     "intro": "别按那个键，查清谁让它成立",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16031511195~thumb",
+     "tags": [
+      "多结局",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200224.htm",
+     "rank": 37
+    },
+    {
+     "id": "466",
+     "gid": "200227",
+     "name": "别让他们按",
+     "heat": 1236,
+     "intro": "在有限金币内布置障碍和道具，看你能不能撑到最后",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16112218507~thumb",
+     "tags": [
+      "单机",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200227.htm",
+     "rank": 38
+    },
+    {
+     "id": "488",
+     "gid": "200463",
+     "name": "药柿了喵",
+     "heat": 1197,
+     "intro": "2D横版平台跳跃闯关类像素风游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10490990830~thumb",
+     "tags": [
+      "闯关",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200463.htm",
+     "rank": 39
+    },
+    {
+     "id": "438",
+     "gid": "200196",
+     "name": "想回家才来封印魔龙",
+     "heat": 1014,
+     "intro": "一款轻松休闲的 2D 回合制单机冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/12031349561~thumb",
+     "tags": [
+      "单机",
+      "小容量"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200196.htm",
+     "rank": 40
+    },
+    {
+     "id": "449",
+     "gid": "200200",
+     "name": "来生按键",
+     "heat": 1010,
+     "intro": "按下按钮，改写罪人的来生",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13504210267~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200200.htm",
+     "rank": 41
+    },
+    {
+     "id": "478",
+     "gid": "200287",
+     "name": "别碰我",
+     "heat": 923,
+     "intro": "利用诅咒消灭怪物，保护小鹿，获得净化",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15460450331~thumb",
+     "tags": [
+      "冒险",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200287.htm",
+     "rank": 42
+    },
+    {
+     "id": "479",
+     "gid": "200249",
+     "name": "勇者别按那个键",
+     "heat": 913,
+     "intro": "你将作为勇者与魔族斗智斗勇，拯救世人。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/18274067687~thumb",
+     "tags": [
+      "角色扮演",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200249.htm",
+     "rank": 43
+    },
+    {
+     "id": "484",
+     "gid": "200353",
+     "name": "别加那一手",
+     "heat": 832,
+     "intro": "3分钟一局，你只有“加杠杆”和“平仓”两个选择",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/10015181764~thumb",
+     "tags": [
+      "模拟",
+      "小容量"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200353.htm",
+     "rank": 44
+    },
+    {
+     "id": "489",
+     "gid": "200803",
+     "name": "别再呱了",
+     "heat": 827,
+     "intro": "复古童话风格的平台跳跃叙事游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/13484421439~thumb",
+     "tags": [
+      "平台跳跃",
+      "复古"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200803.htm",
+     "rank": 45
+    },
+    {
+     "id": "472",
+     "gid": "200235",
+     "name": "脑腐机777",
+     "heat": 776,
+     "intro": "点下去之后还有多久能玩呢",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17174583210~thumb",
+     "tags": [
+      "单机",
+      "模拟"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200235.htm",
+     "rank": 46
+    },
+    {
+     "id": "482",
+     "gid": "200280",
+     "name": "PressAndFright",
+     "heat": 770,
+     "intro": "你被关进一个地牢里了，什么叫地板上有个按钮",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15172919551~thumb",
+     "tags": [
+      "像素",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200280.htm",
+     "rank": 47
+    },
+    {
+     "id": "443",
+     "gid": "200208",
+     "name": "喵星入侵",
+     "heat": 757,
+     "intro": "作为生活在果冻星的普通果冻，抵御外星猫咪的入侵！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/1428032641~thumb",
+     "tags": [
+      "卡通",
+      "角色扮演"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200208.htm",
+     "rank": 48
+    },
+    {
+     "id": "467",
+     "gid": "200291",
+     "name": "猫爪出击",
+     "heat": 748,
+     "intro": "一款提高玩家反应力的休闲游戏",
+     "image": "https://img.71acg.net/kbyx/sykb/20260710/16252342475",
+     "tags": [
+      "单机",
+      "点击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200291.htm",
+     "rank": 49
+    },
+    {
+     "id": "451",
+     "gid": "200215",
+     "name": "他们说",
+     "heat": 746,
+     "intro": "几个不同机制的解密关卡，带你找回坚守本心的勇气！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15034813328~thumb",
+     "tags": [
+      "极简",
+      "黑白"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200215.htm",
+     "rank": 50
+    }
+   ]
+  },
+  "student": {
+   "key": "student",
+   "label": "学生团队",
+   "sourceCount": 110,
+   "items": [
+    {
+     "id": "439",
+     "gid": "200197",
+     "name": "少女α的献身",
+     "heat": 5809,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13432163548~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200197.htm",
+     "rank": 1
+    },
+    {
+     "id": "446",
+     "gid": "200243",
+     "name": "不要急于成交",
+     "heat": 4020,
+     "intro": "带有策略的猜大小游戏，押上你的资金链！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17492079363~thumb",
+     "tags": [
+      "策略",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200243.htm",
+     "rank": 2
+    },
+    {
+     "id": "453",
+     "gid": "200226",
+     "name": "链键失衡",
+     "heat": 2831,
+     "intro": "通过连线链路解谜的2D像素平台跳跃游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16043228762~thumb",
+     "tags": [
+      "解谜",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200226.htm",
+     "rank": 3
+    },
+    {
+     "id": "445",
+     "gid": "200240",
+     "name": "REBOOT",
+     "heat": 1578,
+     "intro": "《别按那个键》是一款2D平台跳跃解谜游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17284948762~thumb",
+     "tags": [
+      "平台跳跃",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200240.htm",
+     "rank": 4
+    },
+    {
+     "id": "444",
+     "gid": "200221",
+     "name": "手忙脚乱",
+     "heat": 1487,
+     "intro": "大手臂派对肉鸽游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15362369257~thumb",
+     "tags": [
+      "沙雕",
+      "桌游"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200221.htm",
+     "rank": 5
+    },
+    {
+     "id": "459",
+     "gid": "200224",
+     "name": "禁键局档案：归零层",
+     "heat": 1252,
+     "intro": "别按那个键，查清谁让它成立",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16031511195~thumb",
+     "tags": [
+      "多结局",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200224.htm",
+     "rank": 6
+    },
+    {
+     "id": "488",
+     "gid": "200463",
+     "name": "药柿了喵",
+     "heat": 1197,
+     "intro": "2D横版平台跳跃闯关类像素风游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10490990830~thumb",
+     "tags": [
+      "闯关",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200463.htm",
+     "rank": 7
+    },
+    {
+     "id": "438",
+     "gid": "200196",
+     "name": "想回家才来封印魔龙",
+     "heat": 1014,
+     "intro": "一款轻松休闲的 2D 回合制单机冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/12031349561~thumb",
+     "tags": [
+      "单机",
+      "小容量"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200196.htm",
+     "rank": 8
+    },
+    {
+     "id": "516",
+     "gid": "200694",
+     "name": "少女α的献身-PC",
+     "heat": 886,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/11010434820~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200694.htm",
+     "rank": 9
+    },
+    {
+     "id": "498",
+     "gid": "201288",
+     "name": "缺失者乐园-PC",
+     "heat": 790,
+     "intro": "玩家将操控一只被遗忘在地下木偶剧场中的小木偶进行",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/16275398064~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201288.htm",
+     "rank": 10
+    },
+    {
+     "id": "472",
+     "gid": "200235",
+     "name": "脑腐机777",
+     "heat": 776,
+     "intro": "点下去之后还有多久能玩呢",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17174583210~thumb",
+     "tags": [
+      "单机",
+      "模拟"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200235.htm",
+     "rank": 11
+    },
+    {
+     "id": "443",
+     "gid": "200208",
+     "name": "喵星入侵",
+     "heat": 757,
+     "intro": "作为生活在果冻星的普通果冻，抵御外星猫咪的入侵！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/1428032641~thumb",
+     "tags": [
+      "卡通",
+      "角色扮演"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200208.htm",
+     "rank": 12
+    },
+    {
+     "id": "451",
+     "gid": "200215",
+     "name": "他们说",
+     "heat": 746,
+     "intro": "几个不同机制的解密关卡，带你找回坚守本心的勇气！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15034813328~thumb",
+     "tags": [
+      "极简",
+      "黑白"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200215.htm",
+     "rank": 13
+    },
+    {
+     "id": "529",
+     "gid": "201254",
+     "name": "融雪之前-PC",
+     "heat": 648,
+     "intro": "举起法杖，切换季节，谜题解开！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/11510022756~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201254.htm",
+     "rank": 14
+    },
+    {
+     "id": "493",
+     "gid": "201066",
+     "name": "人！别按那个键-PC",
+     "heat": 402,
+     "intro": "一枚被按怕了的Ctr键在有网格的世界翻滚逃离",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/11485625792~thumb",
+     "tags": [
+      "策略",
+      "益智"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201066.htm",
+     "rank": 15
+    },
+    {
+     "id": "565",
+     "gid": "200457",
+     "name": "禁忌之盒-PC",
+     "heat": 328,
+     "intro": "打怪变强，挑战18波禁忌试炼",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10325378129~thumb",
+     "tags": [
+      "单机",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200457.htm",
+     "rank": 16
+    },
+    {
+     "id": "576",
+     "gid": "201015",
+     "name": "白核-PC",
+     "heat": 326,
+     "intro": "第三人称科幻设计肉鸽",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/16374168770~thumb",
+     "tags": [
+      "单机",
+      "射击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201015.htm",
+     "rank": 17
+    },
+    {
+     "id": "502",
+     "gid": "201143",
+     "name": "别按！真的别按！-PC",
+     "heat": 302,
+     "intro": "越按越被整的犯贱解谜游戏，别按，除非你想被嘲笑",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/10405016946~thumb",
+     "tags": [
+      "像素",
+      "心理"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201143.htm",
+     "rank": 18
+    },
+    {
+     "id": "542",
+     "gid": "200279",
+     "name": "No，Kitty！-PC",
+     "heat": 276,
+     "intro": "变成猫猫头,开启你的奇妙之旅",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15133665862~thumb",
+     "tags": [
+      "剧情",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200279.htm",
+     "rank": 19
+    },
+    {
+     "id": "568",
+     "gid": "201274",
+     "name": "遗忘时钟-PC",
+     "heat": 266,
+     "intro": "2D横版剧情游戏，按下按钮就会结束循环，失去妻子",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/15155253823~thumb",
+     "tags": [
+      "剧情",
+      "角色扮演"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201274.htm",
+     "rank": 20
+    },
+    {
+     "id": "558",
+     "gid": "201259",
+     "name": "键外之音-PC",
+     "heat": 244,
+     "intro": "键外之音是一款以音乐为灵感的策略动作游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/13455538791~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201259.htm",
+     "rank": 21
+    },
+    {
+     "id": "525",
+     "gid": "200797",
+     "name": "旁观者-PC",
+     "heat": 223,
+     "intro": "千万不要碰那台有点奇怪的电脑！！！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/11375836433~thumb",
+     "tags": [
+      "单机",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200797.htm",
+     "rank": 22
+    },
+    {
+     "id": "526",
+     "gid": "201296",
+     "name": "行星键-PC",
+     "heat": 204,
+     "intro": "系统伪造绝境，按钮伪装救星。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/17012218585~thumb",
+     "tags": [
+      "卡通",
+      "解压"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201296.htm",
+     "rank": 23
+    },
+    {
+     "id": "497",
+     "gid": "201191",
+     "name": "四季回音-PC",
+     "heat": 190,
+     "intro": "点击发出声波，触碰音符后还原音频",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/17312070259~thumb",
+     "tags": [
+      "单机",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201191.htm",
+     "rank": 24
+    },
+    {
+     "id": "523",
+     "gid": "201051",
+     "name": "溯梦-PC",
+     "heat": 175,
+     "intro": "梦核风室内游乐园解谜游戏 挣脱规训探寻自我人生选",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/0938553140~thumb",
+     "tags": [
+      "解谜",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201051.htm",
+     "rank": 25
+    },
+    {
+     "id": "501",
+     "gid": "200503",
+     "name": "落笔无悔-PC",
+     "heat": 169,
+     "intro": "扮演史官，在一次次抉择中平衡忠诚、良知与生存",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/14012640341~thumb",
+     "tags": [
+      "单机",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200503.htm",
+     "rank": 26
+    },
+    {
+     "id": "527",
+     "gid": "200532",
+     "name": "请按下左键-PC",
+     "heat": 167,
+     "intro": "请按下左键——但是要小心。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/16050970690~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200532.htm",
+     "rank": 27
+    },
+    {
+     "id": "519",
+     "gid": "201172",
+     "name": "寻路剑士-PC",
+     "heat": 162,
+     "intro": "少年剑士辞别故乡，踏上探寻异变的旅途。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/15553934604~thumb",
+     "tags": [
+      "单机",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201172.htm",
+     "rank": 28
+    },
+    {
+     "id": "590",
+     "gid": "201023",
+     "name": "心愿按钮-PC",
+     "heat": 160,
+     "intro": "赌场模拟器。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260721/17242761836~thumb",
+     "tags": [
+      "像素",
+      "独立游戏"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201023.htm",
+     "rank": 29
+    },
+    {
+     "id": "499",
+     "gid": "201299",
+     "name": "侠路相逢-PC",
+     "heat": 158,
+     "intro": "构筑属于自己的功法流派，在五天中磨练武艺战胜强敌",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/17235413291~thumb",
+     "tags": [
+      "Roguelike",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201299.htm",
+     "rank": 30
+    },
+    {
+     "id": "504",
+     "gid": "200661",
+     "name": "帮你按了-PC",
+     "heat": 153,
+     "intro": "一款高难度即使操作塔防游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/17390251100~thumb",
+     "tags": [
+      "末日",
+      "废土"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200661.htm",
+     "rank": 31
+    },
+    {
+     "id": "515",
+     "gid": "200502",
+     "name": "提示符-PC",
+     "heat": 153,
+     "intro": "基于扫雷的规则学习类解密游戏，探索按键学习新知识",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/13481721038~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200502.htm",
+     "rank": 32
+    },
+    {
+     "id": "505",
+     "gid": "201640",
+     "name": "萌兽远征-PC",
+     "heat": 143,
+     "intro": "一款以双人协作的冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260731/19185717085~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201640.htm",
+     "rank": 33
+    },
+    {
+     "id": "560",
+     "gid": "200289",
+     "name": "瘾-PC",
+     "heat": 131,
+     "intro": "每一次按下，都是一步深渊",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15591585083~thumb",
+     "tags": [
+      "解谜",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200289.htm",
+     "rank": 34
+    },
+    {
+     "id": "538",
+     "gid": "200398",
+     "name": "宇宙得来速-PC",
+     "heat": 125,
+     "intro": "一部荒诞的跨星际打工模拟游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/15460485523~thumb",
+     "tags": [
+      "单机",
+      "烹饪"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200398.htm",
+     "rank": 35
+    },
+    {
+     "id": "509",
+     "gid": "201263",
+     "name": "GoodsTowerDefence-PC",
+     "heat": 124,
+     "intro": "二次元3D塔防游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/14055982252~thumb",
+     "tags": [
+      "塔防",
+      "收集"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201263.htm",
+     "rank": 36
+    },
+    {
+     "id": "546",
+     "gid": "201120",
+     "name": "盲目之触-PC",
+     "heat": 120,
+     "intro": "避钮防封路，献祭按键获取异能解谜逃离克苏鲁地牢。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/17435290430~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201120.htm",
+     "rank": 37
+    },
+    {
+     "id": "534",
+     "gid": "201065",
+     "name": "方寸之间-PC",
+     "heat": 118,
+     "intro": "合理行棋，建立威慑，加强威慑，取得优势，夺得胜利",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/11274660094~thumb",
+     "tags": [
+      "单机",
+      "小容量"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201065.htm",
+     "rank": 38
+    },
+    {
+     "id": "548",
+     "gid": "200448",
+     "name": "别捣蛋-PC",
+     "heat": 114,
+     "intro": "怀旧校园潜行解谜，",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10040189828~thumb",
+     "tags": [
+      "单机",
+      "潜入"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200448.htm",
+     "rank": 39
+    },
+    {
+     "id": "532",
+     "gid": "200838",
+     "name": "魔女规则审查机关-PC",
+     "heat": 113,
+     "intro": "一位厌倦了被规则约束的魔女，逃到森林，却发现……",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/17312658108~thumb",
+     "tags": [
+      "像素",
+      "横版"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200838.htm",
+     "rank": 40
+    },
+    {
+     "id": "520",
+     "gid": "201210",
+     "name": "星禾的森林秘境冒险-PC",
+     "heat": 113,
+     "intro": "治愈复古像素森林平台跳跃冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/09112862258~thumb",
+     "tags": [
+      "像素",
+      "小清新"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201210.htm",
+     "rank": 41
+    },
+    {
+     "id": "566",
+     "gid": "200397",
+     "name": "买，买？买！-PC",
+     "heat": 104,
+     "intro": "买，买？买！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/15440072516~thumb",
+     "tags": [
+      "单机",
+      "模拟经营"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200397.htm",
+     "rank": 42
+    },
+    {
+     "id": "559",
+     "gid": "201164",
+     "name": "迷途酒馆-PC",
+     "heat": 102,
+     "intro": "和敌人进行资源博弈的回合制卡牌对战游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/15155189739~thumb",
+     "tags": [
+      "单机",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201164.htm",
+     "rank": 43
+    },
+    {
+     "id": "494",
+     "gid": "201212",
+     "name": "智能优化中-PC",
+     "heat": 99,
+     "intro": "通过平衡每日的安排，在保证完成工作内容的同时保留",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/09251668891~thumb",
+     "tags": [
+      "单机",
+      "视觉小说"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201212.htm",
+     "rank": 44
+    },
+    {
+     "id": "500",
+     "gid": "200288",
+     "name": "蛙哒一声-PC",
+     "heat": 98,
+     "intro": "纸青蛙的治愈折纸解谜冒险",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15591173425~thumb",
+     "tags": [
+      "休闲",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200288.htm",
+     "rank": 45
+    },
+    {
+     "id": "578",
+     "gid": "200720",
+     "name": "忘劫不复-PC",
+     "heat": 95,
+     "intro": "融合动作肉鸽怪物契约收集与局外经营成经营冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/14220053777~thumb",
+     "tags": [
+      "闯关",
+      "异世界"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200720.htm",
+     "rank": 46
+    },
+    {
+     "id": "508",
+     "gid": "201219",
+     "name": "铜仪溯梦集·地动长歌-PC",
+     "heat": 92,
+     "intro": "关于张衡地动仪的剧情解密RPG游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/09540863926~thumb",
+     "tags": [
+      "角色扮演",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201219.htm",
+     "rank": 47
+    },
+    {
+     "id": "524",
+     "gid": "200658",
+     "name": "关键怪事——关于女巫给的按键每次按下去都会发生奇怪的事但我还是要救公主这档事-PC",
+     "heat": 91,
+     "intro": "关键怪事是一款2d平台“蠕动”解谜游戏，运用布娃",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/17085699387~thumb",
+     "tags": [
+      "单机",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200658.htm",
+     "rank": 48
+    },
+    {
+     "id": "522",
+     "gid": "200392",
+     "name": "瓶中世界-PC",
+     "heat": 91,
+     "intro": "在实验室里不断合成元素, 创造你的不同的世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/15221740848~thumb",
+     "tags": [
+      "单机",
+      "沙盒"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200392.htm",
+     "rank": 49
+    },
+    {
+     "id": "512",
+     "gid": "200468",
+     "name": "安简诊疗录-PC",
+     "heat": 90,
+     "intro": "心理医生安简的治疗病人的旅程，也是彻底治愈自己的",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10572470536~thumb",
+     "tags": [
+      "单机",
+      "射击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200468.htm",
+     "rank": 50
+    }
+   ]
+  },
+  "strait": {
+   "key": "strait",
+   "label": "海峡之星",
+   "sourceCount": 97,
+   "items": [
+    {
+     "id": "439",
+     "gid": "200197",
+     "name": "少女α的献身",
+     "heat": 5809,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13432163548~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200197.htm",
+     "rank": 1
+    },
+    {
+     "id": "446",
+     "gid": "200243",
+     "name": "不要急于成交",
+     "heat": 4020,
+     "intro": "带有策略的猜大小游戏，押上你的资金链！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17492079363~thumb",
+     "tags": [
+      "策略",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200243.htm",
+     "rank": 2
+    },
+    {
+     "id": "463",
+     "gid": "200414",
+     "name": "逃离恶梦岛",
+     "heat": 3583,
+     "intro": "生存肉鸽进化岛",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/16531875999~thumb",
+     "tags": [
+      "单机",
+      "搜打撤"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200414.htm",
+     "rank": 3
+    },
+    {
+     "id": "258",
+     "gid": "200453",
+     "name": "家书-PC",
+     "heat": 3077,
+     "intro": "渡信传思念，两岸一家亲（剧情向）",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10251033907~thumb",
+     "tags": [
+      "AVG",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200453.htm",
+     "rank": 4
+    },
+    {
+     "id": "469",
+     "gid": "200406",
+     "name": "暴雨疯院",
+     "heat": 2883,
+     "intro": "按不按按钮能够改变剧情走向，是否能成功出逃",
+     "image": "https://img.71acg.net/kbdev/opensj/20260713/16252718399~thumb",
+     "tags": [
+      "点击",
+      "逃脱"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200406.htm",
+     "rank": 5
+    },
+    {
+     "id": "458",
+     "gid": "200222",
+     "name": "校园规则",
+     "heat": 2464,
+     "intro": "只要遵从规则，你就能找到出去的路",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15451726224~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200222.htm",
+     "rank": 6
+    },
+    {
+     "id": "476",
+     "gid": "200310",
+     "name": "别划那个浆",
+     "heat": 2363,
+     "intro": "别划那个浆，否则水怪会找上你！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/19250887830~thumb",
+     "tags": [
+      "物理",
+      "行云流水"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200310.htm",
+     "rank": 7
+    },
+    {
+     "id": "331",
+     "gid": "201183",
+     "name": "幸存者-PC",
+     "heat": 2334,
+     "intro": "AVG游戏，你是为了活着而不断做出选择的幸存者",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/17001040502~thumb",
+     "tags": [
+      "单机",
+      "AVG"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201183.htm",
+     "rank": 8
+    },
+    {
+     "id": "481",
+     "gid": "200278",
+     "name": "疯狂马戏团",
+     "heat": 2038,
+     "intro": "反串马戏团表演，你与手握操纵按钮的动物们同台表演",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/14314549270~thumb",
+     "tags": [
+      "闯关",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200278.htm",
+     "rank": 9
+    },
+    {
+     "id": "473",
+     "gid": "200257",
+     "name": "禁键协议",
+     "heat": 1970,
+     "intro": "一款赛博风无轨音游 Boss 战",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/09231354430~thumb",
+     "tags": [
+      "单机",
+      "音游"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200257.htm",
+     "rank": 10
+    },
+    {
+     "id": "145",
+     "gid": "201279",
+     "name": "浮城舟-PC",
+     "heat": 1823,
+     "intro": "《浮城舟》是一款风暴中的半即时危机调度游戏。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/15442811074~thumb",
+     "tags": [
+      "资源管理",
+      "即时策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201279.htm",
+     "rank": 11
+    },
+    {
+     "id": "471",
+     "gid": "200231",
+     "name": "莫陌山",
+     "heat": 1726,
+     "intro": "晋朝的乱世的生存游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/16350680044~thumb",
+     "tags": [
+      "剧情",
+      "生存"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200231.htm",
+     "rank": 12
+    },
+    {
+     "id": "445",
+     "gid": "200240",
+     "name": "REBOOT",
+     "heat": 1578,
+     "intro": "《别按那个键》是一款2D平台跳跃解谜游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/17284948762~thumb",
+     "tags": [
+      "平台跳跃",
+      "像素"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200240.htm",
+     "rank": 13
+    },
+    {
+     "id": "456",
+     "gid": "200216",
+     "name": "算式塔防",
+     "heat": 1454,
+     "intro": "拖数字拼算式喂炮台的脑力塔防",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/15061687363~thumb",
+     "tags": [
+      "塔防",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200216.htm",
+     "rank": 14
+    },
+    {
+     "id": "447",
+     "gid": "200276",
+     "name": "逃离按钮规则",
+     "heat": 1283,
+     "intro": "逃离被按钮规则束缚的世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/14013677723~thumb",
+     "tags": [
+      "解谜",
+      "第一人称"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200276.htm",
+     "rank": 15
+    },
+    {
+     "id": "488",
+     "gid": "200463",
+     "name": "药柿了喵",
+     "heat": 1197,
+     "intro": "2D横版平台跳跃闯关类像素风游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10490990830~thumb",
+     "tags": [
+      "闯关",
+      "平台跳跃"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200463.htm",
+     "rank": 16
+    },
+    {
+     "id": "438",
+     "gid": "200196",
+     "name": "想回家才来封印魔龙",
+     "heat": 1014,
+     "intro": "一款轻松休闲的 2D 回合制单机冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/12031349561~thumb",
+     "tags": [
+      "单机",
+      "小容量"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200196.htm",
+     "rank": 17
+    },
+    {
+     "id": "516",
+     "gid": "200694",
+     "name": "少女α的献身-PC",
+     "heat": 886,
+     "intro": "以叙事驱动的RPG赛博朋克Roguelike游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/11010434820~thumb",
+     "tags": [
+      "单机",
+      "Roguelike"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200694.htm",
+     "rank": 18
+    },
+    {
+     "id": "498",
+     "gid": "201288",
+     "name": "缺失者乐园-PC",
+     "heat": 790,
+     "intro": "玩家将操控一只被遗忘在地下木偶剧场中的小木偶进行",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/16275398064~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201288.htm",
+     "rank": 19
+    },
+    {
+     "id": "443",
+     "gid": "200208",
+     "name": "喵星入侵",
+     "heat": 757,
+     "intro": "作为生活在果冻星的普通果冻，抵御外星猫咪的入侵！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/1428032641~thumb",
+     "tags": [
+      "卡通",
+      "角色扮演"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200208.htm",
+     "rank": 20
+    },
+    {
+     "id": "465",
+     "gid": "200551",
+     "name": "金海豚之旅",
+     "heat": 683,
+     "intro": "启航未知海域，书写冒险传奇",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/16512146763~thumb",
+     "tags": [
+      "冒险",
+      "手绘"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200551.htm",
+     "rank": 21
+    },
+    {
+     "id": "442",
+     "gid": "200205",
+     "name": "别踩那个雷！",
+     "heat": 667,
+     "intro": "一款将经典扫雷与3D动作冒险深度融合的创意游戏。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260709/13595135756~thumb",
+     "tags": [
+      "扫雷",
+      "益智"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200205.htm",
+     "rank": 22
+    },
+    {
+     "id": "301",
+     "gid": "201159",
+     "name": "卡牌决斗：黑暗仪式-PC",
+     "heat": 558,
+     "intro": "一款暗黑哥特风卡牌 Roguelike",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/14124859000~thumb",
+     "tags": [
+      "Roguelike",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201159.htm",
+     "rank": 23
+    },
+    {
+     "id": "138",
+     "gid": "200941",
+     "name": "浮生若梦-PC",
+     "heat": 520,
+     "intro": "玩家将扮演失忆的主人公，在探索中查明真相。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260720/16293691524~thumb",
+     "tags": [
+      "悬疑",
+      "AVG"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200941.htm",
+     "rank": 24
+    },
+    {
+     "id": "257",
+     "gid": "200447",
+     "name": "扳机-PC",
+     "heat": 404,
+     "intro": "向恶棍复仇",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/10013960713~thumb",
+     "tags": [
+      "剧情",
+      "美漫风"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200447.htm",
+     "rank": 25
+    },
+    {
+     "id": "493",
+     "gid": "201066",
+     "name": "人！别按那个键-PC",
+     "heat": 402,
+     "intro": "一枚被按怕了的Ctr键在有网格的世界翻滚逃离",
+     "image": "https://img.71acg.net/kbdev/opensj/20260722/11485625792~thumb",
+     "tags": [
+      "策略",
+      "益智"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201066.htm",
+     "rank": 26
+    },
+    {
+     "id": "113",
+     "gid": "200831",
+     "name": "错误电梯-PC",
+     "heat": 371,
+     "intro": "错误电梯是一款点击类meta元素电梯游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260717/16565890527~thumb",
+     "tags": [
+      "解谜",
+      "点击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200831.htm",
+     "rank": 27
+    },
+    {
+     "id": "207",
+     "gid": "200724",
+     "name": "别喝那瓶药-PC",
+     "heat": 369,
+     "intro": "被怪病缠身的少女，承受着各类副作用寻找治愈药剂",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/14241497702~thumb",
+     "tags": [
+      "异世界",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200724.htm",
+     "rank": 28
+    },
+    {
+     "id": "502",
+     "gid": "201143",
+     "name": "别按！真的别按！-PC",
+     "heat": 302,
+     "intro": "越按越被整的犯贱解谜游戏，别按，除非你想被嘲笑",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/10405016946~thumb",
+     "tags": [
+      "像素",
+      "心理"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201143.htm",
+     "rank": 29
+    },
+    {
+     "id": "196",
+     "gid": "200702",
+     "name": "夜班审核-PC",
+     "heat": 298,
+     "intro": "在夜班当审核员，找出伪人并想办法阻止他们按打卡键",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/12151165283~thumb",
+     "tags": [
+      "单机",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200702.htm",
+     "rank": 30
+    },
+    {
+     "id": "90",
+     "gid": "200281",
+     "name": "系统说我按下按钮就能拯救异世界，但它没说按完就能看到美少女-PC",
+     "heat": 284,
+     "intro": "在这款游戏您将变为异世界穿越者拯救世界",
+     "image": "https://img.71acg.net/kbdev/opensj/20260710/15212817597~thumb",
+     "tags": [
+      "单机",
+      "动作"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200281.htm",
+     "rank": 31
+    },
+    {
+     "id": "149",
+     "gid": "201445",
+     "name": "K博德精灵公司-PC",
+     "heat": 233,
+     "intro": "排兵布阵，携手K博德精灵们共赴键盘上的攻防战吧！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260727/16254177309~thumb",
+     "tags": [
+      "模拟经营",
+      "塔防"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201445.htm",
+     "rank": 32
+    },
+    {
+     "id": "317",
+     "gid": "200765",
+     "name": "垃圾鱼-PC",
+     "heat": 223,
+     "intro": "卡牌肉鸽自走棋，清理垃圾，保护海洋",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/18313268195~thumb",
+     "tags": [
+      "像素",
+      "自走棋"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200765.htm",
+     "rank": 33
+    },
+    {
+     "id": "95",
+     "gid": "200486",
+     "name": "猫猫大逃亡-PC",
+     "heat": 221,
+     "intro": "当绝境来临，那个能救你的按钮，真的值得按下吗？",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/11294813416~thumb",
+     "tags": [
+      "萌宠",
+      "克苏鲁"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200486.htm",
+     "rank": 34
+    },
+    {
+     "id": "185",
+     "gid": "200619",
+     "name": "椰子大逃生-PC",
+     "heat": 215,
+     "intro": "俯视角弹幕射击：按or不按？来决定椰子的命运吧！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/14203147650~thumb",
+     "tags": [
+      "单机",
+      "射击"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200619.htm",
+     "rank": 35
+    },
+    {
+     "id": "435",
+     "gid": "201302",
+     "name": "爆破黑鼠党-PC",
+     "heat": 214,
+     "intro": "小丑牌like三消游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/1746057365~thumb",
+     "tags": [
+      "Roguelike",
+      "卡牌"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201302.htm",
+     "rank": 36
+    },
+    {
+     "id": "497",
+     "gid": "201191",
+     "name": "四季回音-PC",
+     "heat": 190,
+     "intro": "点击发出声波，触碰音符后还原音频",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/17312070259~thumb",
+     "tags": [
+      "单机",
+      "休闲"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201191.htm",
+     "rank": 37
+    },
+    {
+     "id": "352",
+     "gid": "200597",
+     "name": "按键幸存者-PC",
+     "heat": 185,
+     "intro": "按键会被封印的吸血鬼幸存者",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/11141157773~thumb",
+     "tags": [
+      "Roguelike",
+      "中世纪"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200597.htm",
+     "rank": 38
+    },
+    {
+     "id": "154",
+     "gid": "200501",
+     "name": "按钮是个谎言-PC",
+     "heat": 184,
+     "intro": "“你被困在循环里。通关之后就会回到起点。”",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/13374365634~thumb",
+     "tags": [
+      "单机",
+      "物理"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200501.htm",
+     "rank": 39
+    },
+    {
+     "id": "119",
+     "gid": "200494",
+     "name": "巡夜-PC",
+     "heat": 176,
+     "intro": "如果再有一次机会，要按下按键吗？",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/11480735503~thumb",
+     "tags": [
+      "解谜",
+      "冒险"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200494.htm",
+     "rank": 40
+    },
+    {
+     "id": "501",
+     "gid": "200503",
+     "name": "落笔无悔-PC",
+     "heat": 169,
+     "intro": "扮演史官，在一次次抉择中平衡忠诚、良知与生存",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/14012640341~thumb",
+     "tags": [
+      "单机",
+      "剧情"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200503.htm",
+     "rank": 41
+    },
+    {
+     "id": "204",
+     "gid": "200719",
+     "name": "地狱打字机-PC",
+     "heat": 165,
+     "intro": "玩家敲击字符抢夺宝物,别按下隐藏的恶魔键。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/14204696249~thumb",
+     "tags": [
+      "复古",
+      "资源管理"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200719.htm",
+     "rank": 42
+    },
+    {
+     "id": "519",
+     "gid": "201172",
+     "name": "寻路剑士-PC",
+     "heat": 162,
+     "intro": "少年剑士辞别故乡，踏上探寻异变的旅途。",
+     "image": "https://img.71acg.net/kbdev/opensj/20260723/15553934604~thumb",
+     "tags": [
+      "单机",
+      "闯关"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201172.htm",
+     "rank": 43
+    },
+    {
+     "id": "499",
+     "gid": "201299",
+     "name": "侠路相逢-PC",
+     "heat": 158,
+     "intro": "构筑属于自己的功法流派，在五天中磨练武艺战胜强敌",
+     "image": "https://img.71acg.net/kbdev/opensj/20260724/17235413291~thumb",
+     "tags": [
+      "Roguelike",
+      "策略"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201299.htm",
+     "rank": 44
+    },
+    {
+     "id": "504",
+     "gid": "200661",
+     "name": "帮你按了-PC",
+     "heat": 153,
+     "intro": "一款高难度即使操作塔防游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/17390251100~thumb",
+     "tags": [
+      "末日",
+      "废土"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200661.htm",
+     "rank": 45
+    },
+    {
+     "id": "515",
+     "gid": "200502",
+     "name": "提示符-PC",
+     "heat": 153,
+     "intro": "基于扫雷的规则学习类解密游戏，探索按键学习新知识",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/13481721038~thumb",
+     "tags": [
+      "单机",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200502.htm",
+     "rank": 46
+    },
+    {
+     "id": "162",
+     "gid": "200755",
+     "name": "沙茶面馆-PC",
+     "heat": 147,
+     "intro": "经营模拟沙茶面馆和互动视频",
+     "image": "https://img.71acg.net/kbdev/opensj/20260716/16572296451~thumb",
+     "tags": [
+      "模拟经营",
+      "水墨"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200755.htm",
+     "rank": 47
+    },
+    {
+     "id": "505",
+     "gid": "201640",
+     "name": "萌兽远征-PC",
+     "heat": 143,
+     "intro": "一款以双人协作的冒险游戏",
+     "image": "https://img.71acg.net/kbdev/opensj/20260731/19185717085~thumb",
+     "tags": [
+      "闯关",
+      "解谜"
+     ],
+     "sourceUrl": "https://www.3839.com/a/201640.htm",
+     "rank": 48
+    },
+    {
+     "id": "157",
+     "gid": "200520",
+     "name": "人！你好！-PC",
+     "heat": 135,
+     "intro": "重生归来之本噜将主宰地球生杀大权！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260714/15302790668~thumb",
+     "tags": [
+      "AVG",
+      "视觉小说"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200520.htm",
+     "rank": 49
+    },
+    {
+     "id": "101",
+     "gid": "200638",
+     "name": "字异常-PC",
+     "heat": 126,
+     "intro": "论坛怪谈、都市传说、模拟恐怖…真正的文字冒险！",
+     "image": "https://img.71acg.net/kbdev/opensj/20260715/1540567028~thumb",
+     "tags": [
+      "解谜",
+      "单机"
+     ],
+     "sourceUrl": "https://www.3839.com/a/200638.htm",
+     "rank": 50
+    }
+   ]
+  }
+ },
+ "sourceCount": 380,
+ "fetchedAt": "2026-08-04T03:28:31.225Z",
+ "error": null,
+ "historyError": null,
+ "historyStartedAt": "2026-08-03T06:33:45.687Z",
+ "heatAxisMax": 7000,
+ "dailyIncreaseAxisMax": 1000,
+ "refreshSeconds": 3600
+}

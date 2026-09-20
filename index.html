@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>金海豚奖 2026 · 热度存档</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230a1720'/%3E%3Cpath d='M7 22 L13 13 L19 17 L25 9' fill='none' stroke='%23c8a04a' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="web/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <!-- 官方全称是「2026 好游快爆×金海豚奖游戏开发大赛」：主标题突出金海豚奖，大赛名做眉题 -->
+  <div class="brand">
+    <span class="brand-mark">好游快爆 × 游戏开发大赛</span>
+    <h1>金海豚奖 2026 · 热度存档</h1>
+  </div>
+  <div class="topbar-side">
+    <p class="stamp" id="stamp">读取快照…</p>
+    <!-- 深浅色切换：图标显示的是「点了会切到哪边」——浅色下是月亮，深色下是太阳 -->
+    <button class="ghost-btn theme-btn" id="themeToggle" type="button" aria-label="切换深浅色">
+      <svg class="icon-moon" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+        <path d="M13.4 9.4a5.4 5.4 0 0 1-6.8-6.8 5.4 5.4 0 1 0 6.8 6.8z"
+              fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+      </svg>
+      <svg class="icon-sun" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+        <circle cx="8" cy="8" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M8 1.2v1.6M8 13.2v1.6M1.2 8h1.6M13.2 8h1.6M3.2 3.2l1.1 1.1M11.7 11.7l1.1 1.1M12.8 3.2l-1.1 1.1M4.3 11.7l-1.1 1.1"
+              stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </button>
+    <span class="archive-badge">投票已结束 · 历史存档</span>
+  </div>
+</header>
+
+<div class="archive-notice" role="note">
+  <strong>投票已于 2026-08-31 24:00（北京时间）结束。</strong>
+  数据采集于 2026-09-07 停止，本站保留历史快照与可视化，不再更新热度。
+</div>
+
+<main id="app" hidden>
+
+  <!-- 领奖台：当前筛选下的前三名（封面大卡），关注作品不在前三时旁边挂聚焦卡 -->
+  <section class="hero" id="hero" aria-label="领奖台"></section>
+
+  <!-- 概览：领跑作品由上面的领奖台承担，这里保留其余四个统计块 -->
+  <section class="kpis" aria-label="总览">
+    <article class="kpi kpi-hero">
+      <p class="kpi-label">累计热度</p>
+      <p class="kpi-value" id="kpiTotal">—</p>
+      <p class="kpi-sub" id="kpiTotalDelta"></p>
+    </article>
+    <article class="kpi">
+      <p class="kpi-label">参赛作品</p>
+      <p class="kpi-value" id="kpiWorks">—</p>
+      <p class="kpi-sub" id="kpiWorksSub"></p>
+    </article>
+    <article class="kpi">
+      <p class="kpi-label">开发团队</p>
+      <p class="kpi-value" id="kpiTeams">—</p>
+      <p class="kpi-sub" id="kpiTeamsSub"></p>
+    </article>
+    <article class="kpi">
+      <p class="kpi-label">追踪时长</p>
+      <p class="kpi-value" id="kpiSnaps">—</p>
+      <p class="kpi-sub" id="kpiSnapsSub"></p>
+    </article>
+  </section>
+
+  <!-- 单一筛选行，下面所有卡片都跟着这一行走 -->
+  <section class="controls" aria-label="筛选">
+    <div class="control-group" role="tablist" aria-label="品类" id="typeTabs"></div>
+    <div class="control-right">
+      <label class="field">
+        <span class="sr-only">搜索作品名</span>
+        <input type="search" id="search" placeholder="搜索作品名…" autocomplete="off">
+      </label>
+      <label class="field">
+        <span class="sr-only">标签</span>
+        <select id="tagFilter"><option value="">全部标签</option></select>
+      </label>
+      <label class="field">
+        <span class="sr-only">时间范围</span>
+        <select id="range">
+          <option value="all">全部时间</option>
+          <option value="24">末 24 小时</option>
+          <option value="72">末 3 天</option>
+          <option value="168">末 7 天</option>
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <div class="grid-two" id="sec-boards">
+
+    <!-- 排行榜 -->
+    <section class="card card-lead">
+      <div class="card-head">
+        <div>
+          <h2>热度排行</h2>
+          <p class="card-sub" id="rankSub">按当前热度排序</p>
+        </div>
+        <div class="card-actions">
+          <button class="ghost-btn" id="rankMore" type="button">显示更多</button>
+        </div>
+      </div>
+      <ol class="board" id="board"></ol>
+      <p class="legend-note">点作品行看详情；行尾的小图钉把它加进对比组。</p>
+    </section>
+
+    <!-- 右列两张卡叠放：涨幅榜 + 对比组，各自保持内容高度 -->
+    <div class="board-side">
+
+      <!-- 涨幅榜：默认看当日新增（北京时间 0 点以来），小 tab 可切「本轮」看最新一批 -->
+      <section class="card">
+        <div class="card-head">
+          <div>
+            <h2>涨幅榜</h2>
+            <p class="card-sub" id="moversSub"></p>
+          </div>
+          <div class="d-tabs" id="moverTabs" role="tablist" aria-label="涨幅统计口径"></div>
+        </div>
+        <div id="movers"></div>
+      </section>
+
+      <!-- 对比组：趋势图选中作品（state.picked）的就近可视化，图钉点完同屏见效 -->
+      <section class="card" id="sec-picks">
+        <div class="card-head">
+          <div>
+            <h2>对比组</h2>
+            <p class="card-sub">排行榜行尾的图钉增删 · 最多 6 个</p>
+          </div>
+          <div class="card-actions">
+            <button class="ghost-btn" id="pickJump" type="button">看趋势 ↓</button>
+          </div>
+        </div>
+        <div id="pickList"></div>
+      </section>
+
+    </div>
+
+  </div>
+
+  <!-- 可选作品推荐：配置在 app.js 的 PROMO 数组，默认关闭 -->
+  <section class="card" id="sec-promo" hidden aria-label="作品推荐">
+    <div class="card-head">
+      <div>
+        <h2>作品推荐</h2>
+        <p class="card-sub">可选推荐 · 不影响榜单排序 · 点击卡片进游戏页</p>
+      </div>
+    </div>
+    <div class="promo-grid" id="promo"></div>
+  </section>
+
+  <div class="grid-three">
+    <section class="card">
+      <div class="card-head">
+        <div>
+          <h2>团队榜</h2>
+          <p class="card-sub" id="teamSub">按团队名下所有作品的热度合计</p>
+        </div>
+      </div>
+      <div id="teams"></div>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <div>
+          <h2>标签热度</h2>
+          <p class="card-sub">哪种玩法今年最吃香：按标签合计热度，括号里是作品数</p>
+        </div>
+      </div>
+      <div id="tags"></div>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <div>
+          <h2>口碑榜</h2>
+          <p class="card-sub" id="qualitySub">玩家评分，和热度是两回事</p>
+        </div>
+      </div>
+      <div id="quality"></div>
+    </section>
+  </div>
+
+  <!-- 名次迁徙：本页的主角图 -->
+  <section class="card" id="sec-charts">
+    <div class="card-head">
+      <div>
+        <h2>名次迁徙</h2>
+        <p class="card-sub">前 15 名的排名随时间流动。灰线是同场对手，高亮的是当前选中的作品。</p>
+      </div>
+    </div>
+    <div class="chart-host" id="rankflow"></div>
+  </section>
+
+  <!-- 热度趋势 -->
+  <section class="card" id="sec-trend">
+    <div class="card-head">
+      <div>
+        <h2>热度趋势</h2>
+        <p class="card-sub">对比组里的作品在这里看完整曲线。用排行榜行尾的小图钉增删。</p>
+      </div>
+      <div class="card-actions">
+        <button class="ghost-btn" id="trendReset" type="button">重置对比</button>
+      </div>
+    </div>
+    <div class="legend" id="trendLegend"></div>
+    <div class="chart-host" id="trend"></div>
+  </section>
+
+  <!-- 全量表格：同时也是所有图表的无障碍等价视图 -->
+  <section class="card" id="sec-table">
+    <div class="card-head">
+      <div>
+        <h2>全部作品</h2>
+        <p class="card-sub" id="tableSub"></p>
+      </div>
+      <div class="card-actions">
+        <button class="ghost-btn" id="tableMore" type="button">显示全部</button>
+        <button class="ghost-btn" id="exportCsv" type="button">导出 CSV</button>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table class="data-table" id="table">
+        <thead>
+          <tr>
+            <th class="col-rank" data-sort="rank" aria-sort="ascending"><button type="button">#</button></th>
+            <th class="col-name" data-sort="name"><button type="button">作品</button></th>
+            <th data-sort="dev"><button type="button">开发团队</button></th>
+            <th class="col-type" data-sort="type"><button type="button">品类</button></th>
+            <th class="col-num" data-sort="zan"><button type="button">热度</button></th>
+            <th class="col-num" data-sort="delta" title="较上一份数字有变化的快照，正常就是最近一个整点批"><button type="button">本轮</button></th>
+            <th class="col-num" data-sort="today" title="最新快照所在北京日期 0 点以来"><button type="button">当日新增</button></th>
+            <th class="col-num" data-sort="score"><button type="button">评分</button></th>
+            <th class="col-num" data-sort="comments"><button type="button">评价</button></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="page-foot">
+    <p>
+      热度与品类抓自
+      <a id="sourceLink" href="https://act.3839.com/n/hykb/jinhaitun/phase1/pc/index.php" rel="noreferrer">好游快爆活动页</a>（历史热度快照）；
+      开发团队、评分、评价数抓自主站游戏页与评价接口（采集停止时的存档）。
+      历史数据保存在 <code>data/</code> 目录。热度＝活动页投票数，评分＝玩家打分，两者互不相干。
+    </p>
+  </footer>
+</main>
+
+<div class="boot" id="boot">
+  <div class="skeleton" id="skeleton" aria-hidden="true">
+    <div class="sk sk-hero"></div>
+    <div class="sk-row">
+      <div class="sk sk-kpi"></div>
+      <div class="sk sk-kpi"></div>
+      <div class="sk sk-kpi"></div>
+      <div class="sk sk-kpi"></div>
+    </div>
+    <div class="sk sk-line"></div>
+    <div class="sk sk-line"></div>
+    <div class="sk sk-line"></div>
+    <div class="sk sk-line"></div>
+  </div>
+  <p id="bootMsg">正在载入快照…</p>
+</div>
+
+<!-- 底部锚点导航：只在窄屏出现 -->
+<nav class="mobile-nav" id="mobileNav" aria-label="快速跳转">
+  <a href="#hero">总览</a>
+  <a href="#sec-boards">排行</a>
+  <a href="#sec-charts">图表</a>
+  <a href="#sec-table">全表</a>
+</nav>
+
+<!-- 作品详情面板：桌面右侧滑出，移动端底部抽屉 -->
+<div class="drawer-overlay" id="drawerOverlay" hidden></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle" hidden>
+  <div class="drawer-handle" aria-hidden="true"></div>
+  <button class="drawer-close" id="drawerClose" type="button" aria-label="关闭详情">✕</button>
+  <div class="drawer-content" id="drawerContent"></div>
+</aside>
+
+<div class="tooltip" id="tooltip" role="status" aria-live="polite" hidden></div>
+
+<script src="web/app.js" defer></script>
+</body>
+</html>

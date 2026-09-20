@@ -1,0 +1,32 @@
+# 历史静态站的手动维护部署；自动 push 部署已于 2026-09-07 停止。
+
+name: 前端改动同步 Cloudflare Pages
+
+# 2026-09-07 归档后仅保留手动维护入口；线上 workflow 同时停用。
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 部署 Cloudflare Pages
+        env:
+          CF_PAGES_PROJECT: ${{ vars.CF_PAGES_PROJECT }}
+          CF_PAGES_URL: ${{ vars.CF_PAGES_URL }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          : "${CF_PAGES_PROJECT:?Set repository variable CF_PAGES_PROJECT}"
+          : "${CF_PAGES_URL:?Set repository variable CF_PAGES_URL}"
+          mkdir -p dist/web dist/data
+          cp index.html dist/
+          cp web/app.js web/style.css dist/web/
+          cp data/meta.json data/latest.json data/series.json data/enrich.json dist/data/
+          # 从 cf-pages/ 里跑：wrangler 从 cwd 捡 functions/（/api/status 状态探针）。
+          # 这是实测出的未文档化行为，所以钉死 wrangler 版本；直传是整包替换，
+          # 漏了 Functions 就等于把接口下线——末尾的 smoke check 让它响亮地失败
+          cd cf-pages && npx wrangler@4.119.0 pages deploy ../dist --project-name="$CF_PAGES_PROJECT" --branch=main --commit-dirty=true
+          curl -fsS --retry 3 --retry-delay 5 "${CF_PAGES_URL%/}/api/status" | grep -q lastSnapshotAt
